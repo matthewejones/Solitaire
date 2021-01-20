@@ -2,7 +2,7 @@
 //
 
 #include "framework.h"
-#include "Direct2DTest.h"
+#include "Solitaire.h"
 
 #include "App.h"
 

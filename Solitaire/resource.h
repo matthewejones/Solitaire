@@ -3,14 +3,14 @@
 // Used by Direct2DTest.rc
 //
 #define IDC_MYICON                      2
-#define IDD_DIRECT2DTEST_DIALOG         102
+#define IDD_SOLITAIRE_DIALOG         102
 #define IDS_APP_TITLE                   103
 #define IDD_ABOUTBOX                    103
 #define IDM_ABOUT                       104
 #define IDM_EXIT                        105
-#define IDI_DIRECT2DTEST                107
+#define IDI_SOLITAIRE                107
 #define IDI_SMALL                       108
-#define IDC_DIRECT2DTEST                109
+#define IDC_SOLITAIRE                109
 #define IDR_MAINFRAME                   128
 #define IDB_BITMAP1                     130
 #define IDC_STATIC                      -1
