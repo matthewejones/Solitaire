@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Direct2DTest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="App.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Card.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SafeRelease.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CardObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Stack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DragPile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DragCard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CardContainer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HPile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Direct2DTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="App.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Card.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CardObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DragPile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Stack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DragCard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CardContainer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HPile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Direct2DTest.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Direct2DTest.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\back.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\1s.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\2s.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\3s.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\4s.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\5s.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\6s.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\7s.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\8s.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\9s.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\10s.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\11s.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\12s.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\13s.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\1c.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\2c.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\3c.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\4c.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\5c.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\6c.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\7c.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\8c.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\9c.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\10c.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\11c.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\12c.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\13c.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\1d.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\2d.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\3d.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\4d.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\5d.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\6d.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\7d.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\8d.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\9d.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\10d.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\11d.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\12d.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\13d.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\1h.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\2h.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\3h.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\4h.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\5h.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\6h.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\7h.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\8h.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\9h.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\10h.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\11h.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\12h.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\13h.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
